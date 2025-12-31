@@ -13,7 +13,7 @@ Each project demonstrates specific skills aligned with the **five course outcome
 
 ## 🌐 Live ePortfolio Site
 View my full interactive GitHub Pages portfolio here:  
-👉 **[https://altoro-iv.github.io](https://altoro-dev.github.io)**
+👉 **[https://altoro-dev.github.io](https://altoro-dev.github.io)**
 
 The site includes:
 - My **Professional Self-Assessment**
@@ -64,6 +64,6 @@ The site includes:
 ## 📬 Contact
 If you’d like to connect or learn more about my work, visit my GitHub profile or reach out via LinkedIn.
 
-- **GitHub:** [@altoro-iv](https://github.com/altoro-dev)   
+- **GitHub:** [@altoro-dev](https://github.com/altoro-dev)   
 - **LinkedIn:** [linkedin.com/in/miguel-altoro](https://www.linkedin.com/in/miguel-altoro)
 ---
